@@ -1,1 +1,3 @@
-normalizr-demo
+web worker
+
+`npm start`
